@@ -1,0 +1,12 @@
+{
+    "animals": [
+      {"name": "Buddy", "species": "Dog", "breed": "Golden Retriever"},
+      {"name": "Whiskers", "species": "Cat", "color": "Gray"},
+      {"name": "Tweety", "species": "Bird", "color": "Yellow"}
+    ],
+    "vehicles": [
+      {"type": "Car", "name": "Tesla"},
+      {"type": "Airplane", "name": "Boeing 747"}
+    ]
+  }
+  
